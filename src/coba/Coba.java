@@ -16,6 +16,7 @@ public class Coba {
      */
     public static void main(String[] args) {
 int banyak = 3;
+String nama ="alvin";
         for (int i = 0; i < banyak; i++) {
                 System.out.println(i);
         }
